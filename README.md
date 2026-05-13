@@ -1,4 +1,4 @@
-### Hi there, I'm Justin 👋
+### Hi there, I’m Justin 👋
 
 <a href="https://www.linkedin.com/in/justin-toffel/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -7,16 +7,14 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-I'm an analytical third-year student at **Rutgers University**, double-majoring in **Computer Science** and **Data Science**. I have a strong foundation in statistical analysis, data management, and machine learning, and I'm eager to apply my quantitative problem-solving skills to drive data-informed decision-making.
-
-**I'm currently seeking internship opportunities for Summer 2026.**
+I am an analytical third-year student at **Rutgers University**, double-majoring in **Computer Science** and **Data Science**. I have a strong foundation in statistical analysis, data management, and machine learning, and I am eager to apply my quantitative problem-solving skills to drive data-informed decisions across the data industry.
 
 ---
 
 ### 🎓 About Me
 * **Education:** Bachelor of Science at Rutgers University, New Brunswick (Expected December 2026).
 * **Key Coursework:** Artificial Intelligence, Data Management, Statistical Inference, Discrete Mathematics II, Multivariable Calculus.
-* **Activities:** Competed in HackRU (university hackathon) and a member of the Rutgers Cybersecurity Club (RUSEC).
+* **Activities:** Competed in HackRU and an active member of the Rutgers Cybersecurity Club (RUSec).
 * Currently strengthening my skills in machine learning, data transformation, and visualization with Power BI and Tableau.
 * Open to collaborating on impactful projects!
 
@@ -24,101 +22,57 @@ I'm an analytical third-year student at **Rutgers University**, double-majoring 
 
 ### 🛠️ My Tech Stack
 
-Here are the primary technologies I work with:
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python">
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R">
-      <br><strong>R</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C">
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java">
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL">
-      <br><strong>SQL</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
-      <br><strong>JavaScript</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="Pandas">
-      <br><strong>Pandas</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" alt="NumPy">
-      <br><strong>NumPy</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="Flask">
-      <br><strong>Flask</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git">
-      <br><strong>Git</strong>
-    </td>
-     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40" alt="Google Cloud">
-      <br><strong>BigQuery</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://vectorseek.com/wp-content/uploads/2023/08/Tableau-Logo-Vector.svg-.png" width="40" height="40" alt="Tableau">
-      <br><strong>Tableau</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG.png" width="40" height="40" alt="Power BI">
-      <br><strong>Power BI</strong>
-    </td>
-  </tr>
-</table>
+**Frameworks & Libraries:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ---
 
 ### 🚀 Recent Projects
 
-#### ⚾ MLB Hit Probability Dashboard
-Developed an interactive analytics dashboard using JavaScript, Tailwind CSS, and MLB APIs to analyze real-time player performance and pitcher-batter matchups. I engineered a data pipeline processing over 5,000 JSON records per full game day, applying statistical analysis to display key metrics (AVG, OBP, SLG, OPS).
-* **Tech:** `JavaScript`, `API Integration`, `Data Engineering`, `Statistical Modeling`, `Tailwind CSS`
-* **Links:** [View Website](https://justintoffel.wixsite.com/mlbhitprobability)
+#### ☁️ Temporal Anomaly Forecasting in Cloud Telemetry
+Engineered a predictive pipeline utilizing a custom Consistency Model for Time Series (CMTS) in PyTorch to forecast continuous CPU utilization from 9GB of Alibaba Cluster Trace data. Designed an Asymmetric Business Metric within the loss formulation to heavily penalize under-predictions, proactively mitigating real-world server failure risks.
+* **Tech:** `Python`, `PyTorch`, `Deep Learning`, `Time-Series Forecasting`
+* **Link:** [View Paper](https://drive.google.com/file/d/1sxr3RdD5nCySYNTktcWcGxdUFUCOswfJ/view?usp=sharing)
 
-#### 💳 Credit Card Fraud Detection
-Faced with a highly imbalanced dataset (0.17% fraud cases), I developed and compared a Decision Tree and a Naïve Bayes classifier. The Naïve Bayes model achieved 97.7% precision while maintaining 85.7% recall, significantly reducing false positives.
-* **Tech:** `R`, `Machine Learning`, `Classification`, `Data Balancing`
-* **Links:** [View Project](https://docs.google.com/presentation/d/1N87YWCJpTZz5dkhgZqnJ6rejUIHICsQZsPZd0ZD0IY0/edit?usp=sharing)
+#### ⚾ MLB Hit Probability Application
+Implemented a full-stack web application integrating a React and TypeScript frontend with a custom Python backend to calculate real-time hit probabilities for a player based on pitch type and exit velocity. Engineered a robust data pipeline that aggregates over 5,000 JSON records per game from MLB Statcast, processing complex historical performance data.
+* **Tech:** `React`, `TypeScript`, `Python`, `Statcast API`, `Predictive Modeling`
+* **Link:** [View Application](https://justintoffel-mlbhitprobability.vercel.app/)
 
-#### 📈 Finance Stock Simulator
-Engineered a full-stack web application using Python and Flask to simulate a stock trading platform. Features a SQL database for user portfolios and transaction histories, integrates the IEX Cloud API for real-time data, and includes a secure user authentication system with password hashing.
-* **Tech:** `Python`, `Flask`, `SQL`, `Web Development`, `API Integration`
-
-#### 🔒 Google Extension Password Generator
-Developed a secure and user-friendly Google Chrome extension for generating strong, random passwords using JavaScript, HTML, and CSS to enhance online security directly within the browser.
-* **Tech:** `JavaScript`, `HTML`, `CSS`, `Chrome Extension`
-* **Links:** [View Code](https://github.com/justintoffel27/My_Projects/tree/df80ba7586a7dd2eb4b3172aeedee5ca14cf6b5e/Password_Generator_Extension)
+#### 🏥 Sepsis Early Detection Pipeline
+Engineered an end-to-end data pipeline to ingest over 20,000 raw clinical files, utilizing batch processing in Python to efficiently load high-frequency time-series data into a SQLite database. Developed a Random Forest classifier to predict sepsis onset 6 hours in advance, generating instant risk probability scores through a custom clinical Command Line Interface.
+* **Tech:** `Python`, `SQL`, `Random Forest`, `ETL Pipeline`
 
 ---
 
 ### 📜 Certifications
 
-* **Google – Data Analytics Professional**
-* **Harvard University – CS50x: Intellectual Enterprises of Computer Science**
+* **[Google – Data Analytics Professional](https://www.credly.com/badges/ee42a2e4-fdc8-458a-9e29-44f7663afb88)**
+* **[Harvard University – CS50x: Intellectual Enterprises of Computer Science](https://certificates.cs50.io/6bda7ab0-552c-423b-9386-582dcad8db60.pdf?size=letter)**
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justintoffel27&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Justin's Top Languages" />
+  <img width="48%" src="https://github-readme-stats-gamma-seven-69.vercel.app/api/top-langs/?username=justintoffel27&layout=compact&theme=transparent&hide_border=true&langs_count=20" alt="Justin’s Top Languages" />
 </p>
