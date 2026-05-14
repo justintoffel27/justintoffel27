@@ -52,6 +52,7 @@ I am an analytical third-year student at **Rutgers University**, double-majoring
 Engineered a predictive pipeline utilizing a custom Consistency Model for Time Series (CMTS) in PyTorch to forecast continuous CPU utilization from 9GB of Alibaba Cluster Trace data. Designed an Asymmetric Business Metric within the loss formulation to heavily penalize under-predictions, proactively mitigating real-world server failure risks.
 * **Tech:** `Python`, `PyTorch`, `Deep Learning`, `Time-Series Forecasting`
 * **Link:** [View Paper](https://drive.google.com/file/d/1sxr3RdD5nCySYNTktcWcGxdUFUCOswfJ/view?usp=sharing)
+  * **Link:** [View Website](https://cpu-temporal-anomaly-forecasting-vi.vercel.app/)
 
 #### ⚾ MLB Hit Probability Application
 Implemented a full-stack web application integrating a React and TypeScript frontend with a custom Python backend to calculate real-time hit probabilities for a player based on pitch type and exit velocity. Engineered a robust data pipeline that aggregates over 5,000 JSON records per game from MLB Statcast, processing complex historical performance data.
